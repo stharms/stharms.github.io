@@ -1,5 +1,8 @@
 ---
 title: "About Me"
+output:
+  html_document:
+    theme: "flatly"
 ---
 I currently work in the Greetings Advanced Analytics & Data Science group at Hallmark Cards in Kansas City, MO. I primarily support the season cards product team in various analytics initiatives. Lately my work has involved a lot of time series forecasting and experimental design problems, and in my free time I've been playing with modeling with Gaussian processes and spatial statistics. I'm an avid R user, regular participant in the [Kansas City R user Meetup Group](https://www.meetup.com/Kansas-City-R-Users-Group/), and if you're in the area you should come too.
 

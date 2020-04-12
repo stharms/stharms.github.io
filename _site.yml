@@ -1,5 +1,8 @@
 name: "my-website"
 output_dir: "."
+output:
+  html_document:
+    theme: "flatly"
 navbar:
   title: "Are we dead or is this Ohio?"
   left:
@@ -9,5 +12,3 @@ navbar:
       href: links.html
     - text: "CC"
       href: cc.html
-    - text: "realEstAnalytics"
-      href: zillowr.html
