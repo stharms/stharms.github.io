@@ -1,0 +1,13 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Are we dead or is this Ohio?"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Links"
+      href: links.html
+    - text: "CC"
+      href: cc.html
+    - text: "realEstAnalytics"
+      href: zillowr.html
